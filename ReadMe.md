@@ -25,6 +25,13 @@ You can also change the pin used to connect the led and the button :
 - **LED_PIN** : The pin used to power the LED
 - **BTN_PIN** : The pin used to connect the button
 
+## Schematics
+### NodeMCU schematic
+![schematic](/schematics/NodeMCU.png)
+
+### ESP32 schematic
+TODO
+
 ## Communication principles
 ### MCU -> Minetest communication
 TODO
